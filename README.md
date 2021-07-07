@@ -1,5 +1,6 @@
 ## Uniswap V3 MEV Explorer
-Uniswap V3 MEV Explorer allows you to explore Uniswap V3 transactions involving MEV 
+Uniswap V3 MEV Explorer allows you to explore Uniswap V3 transactions involving MEV. 
+Uniswap V3 MEV Explorer is powered using the Uniswap V3 Subgraph on the Graph Explorer.
 
 ### App Link
 Uniswap V3 MEV Explorer (Mainnet): https://uniswap-v3-mev-explorer.netlify.app
